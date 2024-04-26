@@ -1,6 +1,6 @@
 <h1 alingn="center">Conversor de Monedas</h1>
 <h4>
-  🚧Proyecto en construcción...🚧
+  🚧Proyecto en proceso de actualización...🚧
 </h4>
 
 <p>Aplicación que busca convertir cualquier valor flotante de una moneda a otra según el listado de monedas disponible en Exchange Rate API.</p>
